@@ -1,1 +1,72 @@
 # online-pharmacy
+
+
+Introduction
+TheOnlinePharmacyiseasytouseandorder.Thecustomerselectsthe
+requiredmedicinesandordersthem byasingleclick.Beforeit,thecustomerneeds
+tocreatealoginaccountandfillallthedetailslikename,address,anyidno…Etc.
+Theclientcanbeabletoviewthestatusofthemedicines.Thebusinessgoalforthe
+applicationistoprovidethemedicinestoallthepeople&adminwillprovidethe
+supplierdetails.
+Projectmodulesare:
+1.PharmacyAdmin:
+Admincanaddthenewmedicinesinformationwhicharevisibletothe
+customer.Andadmincanviewthemedicinesinformationandadmincanbe
+abletoupdatethemedicinesstatus.
+2.Staff:
+Staffshouldfollowsomeauthenticationprocess.Staffcanbeableto
+beloggingintoourapplicationbyprovidingvalidemailidandpassword.After
+thatstaffcanbeabletoupdatethestockdetailsofmedicinespresentinthe
+storeandstaffcanraisetherequesttoadminregardingmedicines.
+3.Customer:
+Customershouldfollowsomeauthenticationprocess.Customercan
+beabletobeloggingintoourapplicationbyprovidingvalidemailidand
+password.Afterthatcustomercanbeabletosearchthemedicinesand
+customerwillordertherequiredmedicinesinformationthroughonline.
+FunctionalitiesofPharmacyadmin:
+ Sign-upforadmin
+ Loginforadmin
+ Resetpassword.
+ Dashboardforadminuser
+ Managemedicine.
+o Addingnewmedicine
+o Updatetheexistingmedicine.
+o Viewdetailsofthemedicine
+o Listofallmedicines
+ Managebill.
+o Viewdetailsofthebill
+FunctionalitiesofPharmacystaff:
+ Sign-upforstaff
+ Loginforstaff
+ Resetpassword.
+ Dashboardforstaffuser
+ Managestockdetailsofmedicine.
+o Updatethestockofmedicine.
+o Viewdetailsofthestockbasedonname.
+o Listofallstockdetails
+ Managebill.
+o Addingnewbill
+o Updatetheexistingbill.
+o Viewdetailsofthebillbasedonorderplaced
+o Listofallbills.
+##.Functionalitiesofcustomer:
+ Register/createanaccountforcustomer.
+ Loginforadmin
+ Resetpassword.
+ Dashboardforcustomer
+ Ordermedicines
+o Viewdetailsofthemedicines
+o Addmedicinestocart.
+o Placetheorder.
+o Viewgeneratedinvoice.
+##.Technologiesused.
+ Javaspringboot
+ SpringdataJPA
+ MySQL
+ Postman
+ HibernatewithJPA
+ Eclipse,Maven
+ JPQL
+ Swagger
+ Lombok
+ Git
