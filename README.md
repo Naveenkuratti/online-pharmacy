@@ -49,7 +49,7 @@ o Addingnewbill
 o Updatetheexistingbill.
 o Viewdetailsofthebillbasedonorderplaced
 o Listofallbills.
-##.Functionalitiesofcustomer:
+##. Functionalitiesofcustomer:
  Register/createanaccountforcustomer.
  Loginforadmin
  Resetpassword.
@@ -59,7 +59,7 @@ o Viewdetailsofthemedicines
 o Addmedicinestocart.
 o Placetheorder.
 o Viewgeneratedinvoice.
-##.Technologiesused.
+# .Technologiesused.
  Javaspringboot
  SpringdataJPA
  MySQL
