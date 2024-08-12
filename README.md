@@ -59,7 +59,7 @@ o Viewdetailsofthemedicines
 o Addmedicinestocart.
 o Placetheorder.
 o Viewgeneratedinvoice.
-# .Technologiesused.
+# Technologiesused.
  Javaspringboot
  SpringdataJPA
  MySQL
